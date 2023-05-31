@@ -1,0 +1,10 @@
+.fix-ltr{
+    direction: ltr;
+    unicode-bidi: bidi-override;
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    color: white;
+    padding: 1%;
+    border-radius: 5%;
+}
